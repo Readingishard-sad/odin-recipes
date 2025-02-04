@@ -1,0 +1,21 @@
+.main {
+    text-align: center;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Header {
+    background-color: red;
+}
+
+#joke {
+    background-color: darkmagenta;
+    color: aqua;
+}
+
+a.recip {
+    background-color: brown;
+    color: yellow;    
+}
