@@ -1,21 +1,32 @@
-.main {
+.center {
     text-align: center;
+    list-style-position: inside;
 }
 
-body {
+.font {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.Header {
+.header {
     background-color: red;
 }
 
-#joke {
+.joke {
     background-color: darkmagenta;
     color: aqua;
 }
 
-a.recip {
-    background-color: brown;
-    color: yellow;    
+.return {
+    color: white;
+    font-weight: 600;
+    background-color: green;
+}
+
+.head2 {
+    color: blue;
+    background-color: yellow;
+}
+
+.pics {
+    text-align: center;
 }
